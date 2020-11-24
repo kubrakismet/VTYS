@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\bin\Debug\pets.exe.config
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\bin\Debug\pets.exe
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\bin\Debug\pets.pdb
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\obj\Debug\pets.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\obj\Debug\pets.Form1.resources
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\obj\Debug\pets.Properties.Resources.resources
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\obj\Debug\pets.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\obj\Debug\pets.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\obj\Debug\pets.exe
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\obj\Debug\pets.pdb
+C:\Users\hp\Desktop\saü\3.sınıf\VTYS\ödev\pets\pets\obj\Debug\pets.rapor.resources
